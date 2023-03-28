@@ -1,1 +1,2 @@
-# Eydenis.github.io merhaba bu bir deneme
+# Merhaba bu bir deneme
+Buradan bir erdeniz geçti
