@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Site Başlığı</title>
+    <title>Erdeniz Site</title>
     <link href="C:\Users\Kullanıcı\Desktop\klasör\style.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
